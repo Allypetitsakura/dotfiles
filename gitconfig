@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = lalebi@live.com
+	name = Alessia Garbi
